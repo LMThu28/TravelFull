@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Hotel Komi",
+        "pricePerNight": "1.000.000 đ",
+        "originalPricePerNight": "2.500.000 đ",
+        "discount": "-60%",
+        "roomsAvailable": 21,
+        "image": "https://ik.imagekit.io/tvlk/apr-asset/Ixf4aptF5N2Qdfmh4fGGYhTN274kJXuNMkUAzpL5HuD9jzSxIGG5kZNhhHY-p7nw/hotel/asset/20048096-0368d53d73dc502039060197fd00cc0d.jpeg?_src=imagekit&tr=f-jpg,fo-auto,h-161,pr-true,q-80,w-300"
+    },
+    {
+        "id": 2,
+        "name": "Conan Detective Hotel",
+        "pricePerNight": "2.750.000 đ",
+        "originalPricePerNight": "5.500.000 đ",
+        "discount": "-50%",
+        "roomsAvailable": 20,
+        "image": "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061404-a98a0a5e26723a7e5720c7e5f4c8ac40.jpeg?_src=imagekit&tr=f-jpg,fo-auto,h-161,pr-true,q-80,w-300"
+    },
+    {
+        "id": 3,
+        "name": "Meme Lord Resort",
+        "pricePerNight": "7.900.000 đ",
+        "originalPricePerNight": "17.900.000 đ",
+        "discount": "-55%",
+        "roomsAvailable": 19,
+        "image": "https://ik.imagekit.io/tvlk/apr-asset/Ixf4aptF5N2Qdfmh4fGGYhTN274kJXuNMkUAzpL5HuD9jzSxIGG5kZNhhHY-p7nw/hotel/asset/10019885-3a422800b22d6616197095f7f3ea5c46.png?_src=imagekit&tr=f-jpg,fo-auto,h-161,pr-true,q-80,w-300"
+    },
+    {
+        "id": 4,
+        "name": "Harry Potter Inn",
+        "pricePerNight": "15.000.000 đ",
+        "originalPricePerNight": "30.000.000 đ",
+        "discount": "-50%",
+        "roomsAvailable": 50,
+        "image": "https://ik.imagekit.io/tvlk/apr-asset/Ixf4aptF5N2Qdfmh4fGGYhTN274kJXuNMkUAzpL5HuD9jzSxIGG5kZNhhHY-p7nw/hotel/asset/20068856-12233e7254a2f53be7100711d6545b11.jpeg?_src=imagekit&tr=f-jpg,fo-auto,h-161,pr-true,q-80,w-300"
+    },
+    {
+        "id": 5,
+        "name": "Adult Coloring Hotel",
+        "pricePerNight": "4.500.000 đ",
+        "originalPricePerNight": "9.000.000 đ",
+        "discount": "-50%",
+        "roomsAvailable": 30,
+        "image": "https://ik.imagekit.io/tvlk/apr-asset/Ixf4aptF5N2Qdfmh4fGGYhTN274kJXuNMkUAzpL5HuD9jzSxIGG5kZNhhHY-p7nw/hotel/asset/20076283-37cc8e27d5b2163001aa4dc509fe3694.jpeg?_src=imagekit&tr=f-jpg,fo-auto,h-161,pr-true,q-80,w-300"
+    },
+    {
+        "id": 6,
+        "name": "Vietnamese Fairy Tale Hotel",
+        "pricePerNight": "6.000.000 đ",
+        "originalPricePerNight": "12.000.000 đ",
+        "discount": "-50%",
+        "roomsAvailable": 40,
+        "image": "https://ik.imagekit.io/tvlk/apr-asset/Ixf4aptF5N2Qdfmh4fGGYhTN274kJXuNMkUAzpL5HuD9jzSxIGG5kZNhhHY-p7nw/hotel/asset/20042647-411cfd5403a2215ba863aedb8c6a1436.jpeg?_src=imagekit&tr=f-jpg,fo-auto,h-161,pr-true,q-80,w-300"
+    }
+]

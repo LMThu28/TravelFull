@@ -1,0 +1,36 @@
+.container {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.card_total{
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.03);
+    border-radius: 5px;
+    background: #fff;
+}
+
+.card_number{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.number_total{
+    color: #56606e;
+    font-size: 23px;
+    font-weight: 700;
+}
+
+.title_total{
+    color: #8a909d;
+    font-size: 15px;
+}
+
+.chart{
+    margin-top: 30px;
+}
+
+.title{
+    font-size: 22px;
+    font-weight: 600;
+}

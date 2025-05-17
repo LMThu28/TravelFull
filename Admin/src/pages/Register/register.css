@@ -1,0 +1,64 @@
+#wrapper{
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;  
+}
+.text{
+    text-align: center;
+}
+#dialog{
+    max-width: 450px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: block;
+    text-align: center;
+    border-radius: 3px;
+    border: solid 1px #ffffff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffffff!important;
+    padding: 20px;
+}
+
+.button{
+    border: none;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image{
+    width: 200;
+    height: 150px;
+}
+
+.text{
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.imageBackground{
+  width: 100%;
+  height: 100%;
+}
+
+
+.loginform {
+    max-width: 500px;
+  }
+  .loginformforgot {
+    float: right;
+  }
+  .antcolrtl .loginformremember {
+    float: left;
+  }
+  .loginformbutton {
+    width: 100%;
+  }
+

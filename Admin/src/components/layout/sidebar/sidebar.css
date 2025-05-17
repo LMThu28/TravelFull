@@ -1,0 +1,34 @@
+.image{
+  width: 100%;
+  height: 150;
+}
+
+.ant-collapse-content {
+background: palegreen;
+}
+
+.ant-menu-item-selected{
+box-shadow: 0 0 10px 1px rgb(248 96 134 / 70%);
+background: linear-gradient(to right, rgba(248,96,134,1), rgba(254,141,119,1));
+color: white;
+}
+
+.ant-menu :hover{
+color: inherit;
+}
+
+.ant-menu{
+background-color: white;
+}
+
+/* .ant-menu-item ::after{
+border-right: 3px solid #FFFFFF;
+} */
+
+.customeClass .ant-menu-title-content{
+text-align: left;
+}
+
+.ant-menu-light .ant-menu-item-selected{
+color: white;
+}
