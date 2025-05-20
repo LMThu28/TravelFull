@@ -38,7 +38,6 @@
 ### **Frontend**
 - **Web**: ReactJS
 - **Mobile**: React Native
-- **Desktop**: ElectronJS
 
 ### **Backend**
 - **Ngôn Ngữ & Framework**: Node.js (Express)
