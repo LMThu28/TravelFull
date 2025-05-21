@@ -1,0 +1,24 @@
+.container {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#my__event_container__list {
+    max-width: 100%;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+.ant-btn {
+    color: #FFFFFF;
+    background-image: linear-gradient(to bottom, rgba(248, 96, 134, 1), rgba(254, 141, 119, 1));
+}
+
+.ant-pagination-item {
+    border-radius: 10px;
+}
+
+.ant-pagination-prev .ant-pagination-item-link,
+.ant-pagination-next .ant-pagination-item-link {
+    border-radius: 10px;
+} 

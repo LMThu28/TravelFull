@@ -1,0 +1,21 @@
+.logo{
+    width: 180px;
+    height: auto;
+}
+
+.header{
+    box-shadow: 0 1px 15px rgb(0 0 0 / 4%), 0 1px 6px rgb(0 0 0 / 4%);
+}
+
+.container:hover{
+    background-color:#F5F5F5;
+}
+
+.fixLine{
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical; 
+    max-width: 400px;
+    margin: 0 0 1em 0;
+    overflow: hidden; 
+}

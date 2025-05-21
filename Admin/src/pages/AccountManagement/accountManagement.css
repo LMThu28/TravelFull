@@ -1,0 +1,59 @@
+.ant-btn{
+    color: #FFFFFF;
+    background-image: linear-gradient(to bottom, rgba(248,96,134,1), rgba(254,141,119,1));
+}
+
+.ant-btn{
+    color: #FFFFFF;
+    background-image: linear-gradient(to bottom, rgba(248,96,134,1), rgba(254,141,119,1));
+}
+
+.event__btn{
+    margin-top: 10px;
+    margin-right: 60px;
+    margin-left: 60px;
+    width: 120px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 10px 20px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+}
+
+.event__button{
+    width: 110px;
+    color: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 7px 14px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+}
+
+#event_container{
+    max-width: 100%;
+    background-color: #ffffff;
+    border-radius: 5px;
+    margin: 15px 10px 10px 10px;
+}
+
+#account{
+    background-color: #ececec;  
+    box-sizing: border-box;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;  
+    margin: 18px 20px 24px 5px;
+    border: 0 none;
+    overflow: hidden;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+#account_container{
+    max-width: 100%;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+.ant-pagination-item{
+    border-radius: 10px;
+}
+
+.ant-pagination-prev .ant-pagination-item-link, .ant-pagination-next .ant-pagination-item-link{
+    border-radius: 10px;
+}

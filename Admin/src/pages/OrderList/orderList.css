@@ -1,0 +1,84 @@
+.container {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#my__event {
+    background-color: #ececec;
+    box-sizing: border-box;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 18px 20px 24px 5px;
+    border: 0 none;
+    overflow: hidden;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+#my__event_container__list {
+    max-width: 100%;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+.event :hover {
+    cursor: pointer;
+    box-shadow: 0px 12px 30px 0px rgba(0, 0, 0, 0.2);
+    transition: all 800ms cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.divider {
+    border-left: 1px solid darkgray;
+    height: 100%;
+}
+
+.event__button-wrap {
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.image {
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 48px;
+}
+
+.event_container__fixLine {
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;
+    max-width: 400px;
+    margin: 0 0 1em 0;
+    overflow: hidden;
+}
+
+.ant-btn {
+    color: #FFFFFF;
+    background-image: linear-gradient(to bottom, rgba(248, 96, 134, 1), rgba(254, 141, 119, 1));
+}
+
+.event__btn {
+    margin-top: 10px;
+    margin-right: 60px;
+    margin-left: 60px;
+    width: 120px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 10px 20px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+}
+
+.event__button {
+    width: 110px;
+    color: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 7px 14px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+}
+
+.ant-pagination-item {
+    border-radius: 10px;
+}
+
+.ant-pagination-prev .ant-pagination-item-link,
+.ant-pagination-next .ant-pagination-item-link {
+    border-radius: 10px;
+}
