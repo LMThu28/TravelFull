@@ -41,9 +41,8 @@
 
 ### **Backend**
 - **Ngôn Ngữ & Framework**: Node.js (Express)
-- **Cơ Sở Dữ Liệu**: MariaDB
-- **Bảo Mật**: JWT, OAuth2, Blockchain
-- **Triển Khai**: Docker, Kubernetes, AWS, Google Cloud
+- **Cơ Sở Dữ Liệu**: MySQL
+- **Bảo Mật**: JWT
 
 ### **AI & Tự Động Hóa**
 - **Chatbot**: OpenAI GPT-3.5
